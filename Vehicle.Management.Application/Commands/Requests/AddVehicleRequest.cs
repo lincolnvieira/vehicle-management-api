@@ -8,7 +8,7 @@ using Vehicle.Management.Application.Commands.Responses;
 
 namespace Vehicle.Management.Application.Commands.Requests
 {
-    public class CreateVehicleRequest : IRequest<CreateVehicleResponse>
+    public class AddVehicleRequest : IRequest
     {
         public string Name { get; set; }
         public double Price { get; set; }

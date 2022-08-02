@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vehicle.Management.Application.Commands.Responses
 {
-    public class CreateVehicleResponse
+    public class AddVehicleResponse
     {
         public Guid VehicleId { get; set; }
         public string Name { get; set; }
