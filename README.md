@@ -5,7 +5,4 @@ Aplicação de Microserviço de Inclusão e Listagem de Veiculos
 
 Tecnologias Usadas
 
-.NET CORE 6
-WebAPI
-MediatR
-AutoMapper
+.NET CORE 6 - WebAPI - MediatR - AutoMapper
