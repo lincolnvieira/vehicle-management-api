@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MediatR;
-using Vehicle.Management.Application.Commands.Responses;
+using Application.Commands.Responses;
 
-namespace Vehicle.Management.Application.Commands.Requests
+namespace Application.Commands.Requests
 {
     public class AddVehicleRequest : IRequest
     {

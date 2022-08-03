@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vehicle.Management.Application.Commands.Responses
+namespace Application.Commands.Responses
 {
     public class AddVehicleResponse
     {

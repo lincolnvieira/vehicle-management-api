@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vehicle.Management.Infrastructure.Database
+namespace Infrastructure.Database
 {
     public static class DatabaseConfiguration
     {

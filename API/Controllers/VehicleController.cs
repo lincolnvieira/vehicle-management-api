@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Vehicle.Management.Application.Commands.Requests;
+using Application.Commands.Requests;
 
-namespace Vehicle.Management.API.Controllers
+namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
